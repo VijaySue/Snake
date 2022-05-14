@@ -1,0 +1,2 @@
+# Snake
+This is a C++ program, and I do the first C++ program. Code to define a large number of C++ classes, the use of a large number of C++ class member functions. It took a few days, but it paid off and I was very happy with the program.
